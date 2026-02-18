@@ -65,11 +65,4 @@ Key Design Principles:
 	•	ML feature extraction layer
 	•	Monitoring & alerting
 
-⸻
-
-👩‍💻 Author
-
-Sravya Buddha
-MS Data Science | Data Engineering & AI Systems
-Graduating May 2026
 
